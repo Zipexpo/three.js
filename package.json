@@ -1,5 +1,5 @@
 {
-  "name": "three",
+  "name": "@zipexpo/three",
   "version": "0.172.0",
   "description": "JavaScript 3D library",
   "type": "module",
